@@ -1,7 +1,10 @@
 # Scene-Genarator
 Unity Project for Real time scene generator
 
-1. Download and extract GenerateScene.zip folder.
+1. Clone this project.
+```
+git clone https://github.com/Beril-1/Scene-Generator.git
+```
 
 2. Open the GenerateScene project via Unity.
 
