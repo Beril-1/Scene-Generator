@@ -1,5 +1,5 @@
 # Scene-Genarator
-Unity Project for Real time scene generator
+Unity Project for real-time scene generator developed in vs Unity 2019.4.6f.1
 
 1. Clone this project.
 ```
